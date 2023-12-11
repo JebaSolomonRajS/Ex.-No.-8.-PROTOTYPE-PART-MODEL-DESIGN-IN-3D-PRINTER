@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Jeba Solomon Raj S
+### Register Number: 23001618
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
