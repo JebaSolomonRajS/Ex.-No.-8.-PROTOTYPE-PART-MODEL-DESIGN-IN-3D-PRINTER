@@ -1,4 +1,4 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![EMPD-chair2](https://github.com/user-attachments/assets/4cafc1a8-c892-44dd-afc1-868180749c21)
+![EMPD-chair1](https://github.com/user-attachments/assets/9687c5a7-48a2-4a51-bec6-25ad504169d6)
 
 ### Name: Jeba Solomon Raj S
-### Register Number: 23001618
+### Register Number: 212223230089
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
